@@ -7,7 +7,7 @@ import SelectedPost from './components/SelectedComponent';
 function App() {
   return (
     <div className="App">
-      <h2>hi</h2>
+      <h2>hi this is the redux basic app</h2>
       <ButtonComponent/>
       <br/>
       <PostList/>
